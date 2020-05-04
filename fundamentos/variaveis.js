@@ -3,6 +3,8 @@
  * 
  * Podem ser usadas fora do bloco das quais foram criadas 
  * 
+ * Caso seja um bloco de função, isso não se aplica
+ * 
  * O JavaScript move as variáveis para o topo do seu escopo antes da execução do código (hoisting).
  * Isso faz com que seja possível utilizar uma variável mesmo antes de declará-la,
  * mesmo não sendo uma boa prática de programação
